@@ -1,3 +1,3 @@
 Check out http://foss.vn
 
-![FOSS.vn](fossvn.svg)
+![FOSS.vn](fossvn.png)
